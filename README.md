@@ -76,6 +76,6 @@
 <br>
 <div align="center">
   <a href="https://github.com/umairazmat">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,cs,dotnet,react,nextjs,redux,materialui,nodejs,express,firebase,postgres,mongodb,python,fastapi,figma,xd,powershell,git,github,stackoverflow,vscodeqt&perline=6" />
+    <img src="https://skillicons.dev/icons? img src="https://skillicons.dev/icons?i=python,flask,django,kubernetes,docker,linux,vscode,git,github,stackoverflow,vscodeqt&perline=5"/>
   </a>
 </div>
