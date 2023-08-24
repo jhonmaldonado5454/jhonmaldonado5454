@@ -76,6 +76,6 @@
 <br>
 <div align="center">
   <a href="https://github.com/jhonmaldonado5454">
-    <img src="https://skillicons.dev/icons? img src="https://skillicons.dev/icons? <i=python,flask,django,kubernetes,docker,linux,vscode,git,github,stackoverflow,vscodeqt&perline=5"/>
-  </a>
+    <img src="https://skillicons.dev/icons?i=python,flask,django,kubernetes,docker,linux,vscode,git,github,stackoverflow,vscodeqt&perline=5" />
+  </a>
 </div>
