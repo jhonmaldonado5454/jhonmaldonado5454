@@ -14,12 +14,7 @@
 
 <!-- Bio -->
 - 👋 Hello! I'm Jhon Maldonado, a Software Engineering student with a strong foundation and notable projects
-- 💪 I'm skilled in back-end development. 
-- 🔭 Currently looking for a job as a Back-end Developer.
-- ⚙️ My advanced skills include Python, SQL, Django, Flask, PostgreSQL, MySQL, APIs RESTful, Docker, Git, GitHub .
-- 🌱 And also expanding my knowledge in devops(docker, kubernates, CI/CD).
-- 👯 I’m looking to collaborate with other content creators and developers.
-- 📢 Love to teach and inspire students.
+- 💪 I'm skilled front-end development. .
 - 🥅 2023 Goals: Expand my knowledge and skills in software development.
 - 📫 How to reach me **jhonmaldonado54@gmail.com**
 - 📩 Don't hesitate to reach out & let's connect and start a conversation. 📞
