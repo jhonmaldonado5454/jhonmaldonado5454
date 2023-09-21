@@ -8,7 +8,7 @@
 <!-- -------Header------- -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software-Engineer;Back-End Developer;ML Enthusiast;Python;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=#fece00&vCenter=true&size=40&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software-Engineer;Front-End Developer;Python;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=#fece00&vCenter=true&size=40&pause=1000">
 </p>
 
 
