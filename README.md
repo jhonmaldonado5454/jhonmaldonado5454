@@ -8,12 +8,12 @@
 <!-- -------Header------- -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software-Engineer;Front-End Developer;Python;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=#fece00&vCenter=true&size=40&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Data Analyst;Python;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=#fece00&vCenter=true&size=40&pause=1000">
 </p>
 
 
 <!-- Bio -->
-- 👋 Hello! I'm Jhon Maldonado, a Software Engineering student with a strong foundation and notable projects
+- 👋 Hello! I'm Jhon Maldonado, a Data Analyst student with a strong foundation and notable projects
 - 💪 I'm skilled front-end development. .
 - 🥅 2023 Goals: Expand my knowledge and skills in software development.
 - 📫 How to reach me **jhonmaldonado54@gmail.com**
