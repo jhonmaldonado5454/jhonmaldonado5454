@@ -15,10 +15,8 @@
 <!-- Bio -->
 - 👋 Hello! I'm Jhon Maldonado, a Data Analyst student with a strong foundation and notable projects
 - 💪 I'm skilled Data Analyst.
-- 🥅 2023 Goals: Expand my knowledge and skills in software development.
 - 📫 How to reach me **jhonmaldonado54@gmail.com**
-- 📩 Don't hesitate to reach out & let's connect and start a conversation. 📞
-- 🤝 Let's connect and explore how I can contribute to your projects or provide valuable insights. Together, we can create remarkable digital solutions that leave a lasting impact. 💼✨
+
 
 <img align="center"  alt="GIF" src="/Codr.gif"   width="400px" height="auto"  />
 
