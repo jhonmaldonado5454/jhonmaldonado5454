@@ -15,7 +15,8 @@
 <!-- Bio -->
 - 👋 👋 Hello! I’m Jhon
 Software Engineer passionate about technology and solving complex problems, I quickly adapt to new challenges and enjoy working in teams to create innovative and efficient solutions.
-- 📫 How to reach me **jhonmaldonado54@gmail.com**, **https://www.linkedin.com/in/jhonmaldonado54/**
+- 📫 How to reach me **jhonmaldonado54@gmail.com**,
+- LinkedIn: **https://www.linkedin.com/in/jhonmaldonado54/**
 
 
 <img align="center"  alt="GIF" src="/Codr.gif"   width="400px" height="auto"  />
