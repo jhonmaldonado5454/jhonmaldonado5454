@@ -69,3 +69,11 @@ Software Engineer passionate about technology and solving complex problems, I qu
     <img src="https://skillicons.dev/icons?i=python,flask,django,kubernetes,docker,linux,vscode,git,github,stackoverflow,vscodeqt&perline=5" />
   </a>
 </div>
+
+#### Github Stats:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonmaldonado5454)](https://github.com/jhonmaldonado5454/github-readme-stats) 
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jhonmaldonado5454&" alt="jhonmaldonado5454" /></p>
+
+[![HitCount](http://hits.dwyl.com/jhonmaldonado5454/jhonmaldonado5454.svg)](http://hits.dwyl.com/jhonmaldonado5454/jhonmaldonado5454)
