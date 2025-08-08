@@ -13,7 +13,7 @@
 
 
 <!-- Bio -->
-Software Engineer passionate about technology and solving complex problems, I quickly adapt to new challenges and enjoy working in teams to create innovative and efficient solutions.
+Software Engineer passionate about technology and solving complex problems, I quickly adapt to new challenges and enjoy working in teams to create innovative and efficient solutions
 
 <img align="center"  alt="GIF" src="/Codr.gif"   width="400px" height="auto"  />
 
